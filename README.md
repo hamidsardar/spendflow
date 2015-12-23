@@ -11,13 +11,13 @@ Download the latest release and run it with `meteor`. It will be available on `h
 
 You can also clone it from the Git repository:
 
-`git clone https://github.com/spendflow/spendflow`
+`git clone https://github.com/hamidsardar/spendflow`
 
 Same procedure to run it.
 
 If for some reason you want events to be sent to your Segment.io account, look at `settings-example.json` and save your own copy as `settings.json`. Run it with `meteor --settings=settings.json`.
 
-### Windows? ([issue](https://github.com/spendflow/spendflow/issues/3))
+### Windows? ([issue](https://github.com/hamidsardar/spendflow/issues/3))
 
 Meteor doesn't support Windows natively, but you can run it in a virtual machine. A `Vagrantfile` for Vagrant would be welcome; there's a draft one in the repository, but it was just me messing around.
 
@@ -29,7 +29,7 @@ The driving force behind Spendflow is the motivation to bridge this gap and allo
 
 ## Support and community
 
-Report bugs or suggest new features on [the Issues page](https://github.com/spendflow/spendflow/issues).
+Report bugs or suggest new features on [the Issues page](https://github.com/hamidsardar/spendflow/issues).
 
 Pivotal Tracker is being used to prioritize project work. [Click here to go there.](https://www.pivotaltracker.com/projects/844191)
 
